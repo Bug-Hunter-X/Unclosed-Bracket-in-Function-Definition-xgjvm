@@ -1,0 +1,1 @@
+This repository contains a simple Python code example demonstrating an uncommon coding error: an unclosed bracket in a function definition. The bug.py file showcases the error, and the bugSolution.py file provides the corrected code. This is a great example to understand how to prevent and debug syntax errors effectively.
